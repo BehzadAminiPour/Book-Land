@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Crime and Punishment",
+      "body": "Rodion Romanovich Raskolnikov, a former law student, lives in extreme poverty in a tiny, rented room in Saint Petersburg. Isolated and antisocial, he has abandoned all attempts to support himself, and is brooding obsessively on a scheme he has devised to murder and rob an elderly pawn-broker. On the pretext of pawning a watch, he visits her apartment, but remains unable to commit himself. Later in a tavern he makes the acquaintance of Semyon Zakharovich Marmeladov, a drunkard who recently squandered his family's little wealth. Marmeladov tells him about his teenage daughter, Sonya, who has become a prostitute in order to support the family. The next day Raskolnikov receives a letter from his mother in which she describes the problems of his sister Dunya, who has been working as a governess, with her ill-intentioned employer, Svidrigailov. To escape her vulnerable position, and with hopes of helping her brother, Dunya has chosen to marry a wealthy suitor, Luzhin, whom they are coming to meet in Petersburg. Details in the letter suggest that Luzhin is a conceited opportunist who is seeking to take advantage of Dunya's situation. Raskolnikov is enraged at his sister's sacrifice, feeling it is the same as what Sonya felt compelled to do. Painfully aware of his own poverty and impotence, his thoughts return to his idea. A further series of internal and external events seem to conspire to compel him toward the resolution to enact it.In a state of extreme nervous tension, Raskolnikov steals an axe and makes his way once more to the old woman's apartment. He gains access by pretending he has something to pawn, and then attacks her with the axe, killing her. He also kills her half-sister, Lizaveta, who happens to stumble upon the scene of the crime. Shaken by his actions, he steals only a handful of items and a small purse, leaving much of the pawn-broker's wealth untouched. Due to sheer good fortune, he manages to escape the building and return to his room undetected.",
+      "author": "Fyodor Dostoevsky",
+      "id": 1
+    },
+    {
+      "title": "War and Peace",
+      "body": "War and Peace broadly focuses on Napoleons invasion of Russia in 1812 and follows three of the most well-known characters in literature: Pierre Bezukhov, the illegitimate son of a count who is fighting for his inheritance and yearning for spiritual fulfillment; Prince Andrei Bolkonsky, who leaves his family behind to fight in the war against Napoleon; and Natasha Rostov, the beautiful young daughter of a nobleman who intrigues both men.A s Napoleon’s army invades, Tolstoy brilliantly follows characters from diverse backgrounds—peasants and nobility, civilians and soldiers—as they struggle with the problems unique to their era, their history, and their culture. And as the novel progresses, these characters transcend their specificity, becoming some of the most moving—and human—figures in world literature.",
+      "author": "Leo Tolstoy",
+      "id": 2
+    },
+    {
+      "title": "Animal Farm",
+      "body": "At first, Animal Farm prospers. Snowball works at teaching the animals to read, and Napoleon takes a group of young puppies to educate them in the principles of Animalism. When Mr. Jones reappears to take back his farm, the animals defeat him again, in what comes to be known as the Battle of the Cowshed, and take the farmer’s abandoned gun as a token of their victory. As time passes, however, Napoleon and Snowball increasingly quibble over the future of the farm, and they begin to struggle with each other for power and influence among the other animals. Snowball concocts a scheme to build an electricity-generating windmill, but Napoleon solidly opposes the plan. At the meeting to vote on whether to take up the project, Snowball gives a passionate speech. Although Napoleon gives only a brief retort, he then makes a strange noise, and nine attack dogs—the puppies that Napoleon had confiscated in order to “educate”—burst into the barn and chase Snowball from the farm. Napoleon assumes leadership of Animal Farm and declares that there will be no more meetings. From that point on, he asserts, the pigs alone will make all of the decisions—for the good of every animal.",
+      "author": "George Orwell",
+      "id": 3
+    }
+  ]
+}
